@@ -1,5 +1,5 @@
-# EDA_Kaggle_survey_2020
-Exploratory Data Analysis on Kaggle Survey 2020
+# Exploratory Data Analysis on Kaggle Survey 2020
+In this project i did Exploaratory Data Analysis on Kaggle Survey and plotted the bar graphs for each of the survey questions using plotly package
 
 Survey questions
 #### 1. Which age group has maximum number of people that has  opted for data science field ?
